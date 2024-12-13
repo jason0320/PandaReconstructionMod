@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+	<title>Panda's Reconstruction Mod</title>
+	<id>Mod_PandaReconstructionMod</id>
+	<author>Now Happy Panda</author>
+	<tags>General,Balance,Cheat,Item</tags>
+	<loadPriority>100</loadPriority>
+	<description>
+Allow Reconstruction on everything
+Reconstructed replica artifacts become non replicas, it's intended
+Handle with care
+	</description>
+	<version>0.23.55</version>
+</Meta>
